@@ -1,0 +1,1 @@
+cmd_/home/hwang/TaskForce_socket/crypto/register/register.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hwang/TaskForce_socket/crypto/register/register.ko /home/hwang/TaskForce_socket/crypto/register/register.o /home/hwang/TaskForce_socket/crypto/register/register.mod.o ;  true
